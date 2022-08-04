@@ -5,4 +5,9 @@ bs
 b
 sb
 s
+
+sd
+vs
+vsv
+sv
 b
